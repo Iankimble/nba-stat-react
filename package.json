@@ -2,7 +2,7 @@
   "name": "nba-stats",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Iankimble.github.io/nba-stat-react/",
+  "homepage": "http://iankimble.github.io/nba-stat-react/",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",

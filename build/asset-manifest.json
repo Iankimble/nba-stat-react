@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nba-stat-react/static/css/main.dd53a303.chunk.css",
+    "main.js": "/nba-stat-react/static/js/main.497c842b.chunk.js",
+    "main.js.map": "/nba-stat-react/static/js/main.497c842b.chunk.js.map",
+    "runtime~main.js": "/nba-stat-react/static/js/runtime~main.f80fcfbe.js",
+    "runtime~main.js.map": "/nba-stat-react/static/js/runtime~main.f80fcfbe.js.map",
+    "static/js/2.fee34a4d.chunk.js": "/nba-stat-react/static/js/2.fee34a4d.chunk.js",
+    "static/js/2.fee34a4d.chunk.js.map": "/nba-stat-react/static/js/2.fee34a4d.chunk.js.map",
+    "index.html": "/nba-stat-react/index.html",
+    "precache-manifest.154f3799b6666c5e82fe00280508f0ef.js": "/nba-stat-react/precache-manifest.154f3799b6666c5e82fe00280508f0ef.js",
+    "service-worker.js": "/nba-stat-react/service-worker.js",
+    "static/css/main.dd53a303.chunk.css.map": "/nba-stat-react/static/css/main.dd53a303.chunk.css.map",
+    "static/media/landing.png": "/nba-stat-react/static/media/landing.a95a748c.png",
+    "static/media/nbasl.png": "/nba-stat-react/static/media/nbasl.760515c3.png"
+  }
+}
