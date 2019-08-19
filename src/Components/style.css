@@ -1,0 +1,93 @@
+body{
+    font-family: 'Khand', sans-serif;
+    margin:0px;
+}
+
+.headerContainer{
+    line-height: 15px;
+    display: inline-block;
+}
+
+.resultsContainer{
+    display: block;
+    text-align: center;
+    align-content: center;
+    margin: 35px;
+}
+
+.dataTable{
+    background-color: white;
+    border-top: transparent !important;
+}
+
+.mainRow{
+    background-color:#2a4d6f;
+    border: none;
+    color: white;
+    border-top: transparent !important;
+}
+
+.subRow{
+    background-color: #b5cce3 !important;
+}
+
+.statItem{
+    text-align: center;
+    margin: 5px;
+    margin-top: 5px;
+}
+
+.imageResults{
+    align-content:center; 
+    justify-content:center; 
+    display:inline-block; 
+    height: 375px;
+}
+
+.image{
+    height:300px; 
+    width:500px;
+    margin: 10px;
+}
+
+.basic{
+    line-height: 5px;
+}
+
+.basicInfo{
+    display: inline-block;
+}
+
+.data{
+    text-align:center;
+    align-content: center;
+}
+
+.logo{
+    height: 165px;
+    width: 200px;  
+    padding-bottom: 40px;
+}
+
+.playForm{
+    margin: 3px;
+}
+
+.sub{
+    margin:3px;
+    background-color: #006BB7;
+    border:none;
+}
+
+.mainBg{
+    background-image: url('');
+}
+
+.headerBg{
+    background-color:'';
+}
+
+.footer{
+    font-size: 15px;
+    text-align: center;
+}
